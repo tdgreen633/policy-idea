@@ -20,4 +20,8 @@ This is another paragraph in the subsection.
 
 # Section 2
 
+This section will be about fair housing.
+
+This is more text about fair housing.
+
 # Section 2.1
