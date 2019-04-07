@@ -20,4 +20,10 @@ This is another paragraph in the subsection.
 
 # Section 2
 
+This section will be about fair housing.
+
+This is more text about fair housing.
+
+More Sentences.
+
 # Section 2.1
