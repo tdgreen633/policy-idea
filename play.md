@@ -16,6 +16,7 @@
 # Section 1.1
 
 This is an example of a subsection.
+This is another paragraph in the subsection.
 
 # Section 2
 
